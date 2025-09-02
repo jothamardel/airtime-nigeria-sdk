@@ -36,9 +36,9 @@
     "url": "git+https://github.com/jothamardel/airtime-nigeria-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/airtime-nigeria-sdk/issues"
+    "url": "https://github.com/jothamardel/airtime-nigeria-sdk/issues"
   },
-  "homepage": "https://github.com/yourusername/airtime-nigeria-sdk#readme",
+  "homepage": "https://github.com/jothamardel/airtime-nigeria-sdk#readme",
   "engines": {
     "node": ">=12.0.0"
   },
