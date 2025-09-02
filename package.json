@@ -1,7 +1,7 @@
 {
-  "name": "airtimenigeria-sdk",
+  "name": "airtime-nigeria-sdk",
   "version": "1.0.0",
-  "description": "Official JavaScript SDK for AirtimeNigeria.com API - Purchase airtime and data bundles for Nigerian networks",
+  "description": "Unofficial JavaScript SDK for AirtimeNigeria.com API - Purchase airtime and data bundles for Nigerian networks",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/airtimenigeria-sdk.git"
+    "url": "https://github.com/jothamardel/airtime-nigeria-sdk"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/airtimenigeria-sdk/issues"
+    "url": "https://github.com/yourusername/airtime-nigeria-sdk/issues"
   },
-  "homepage": "https://github.com/yourusername/airtimenigeria-sdk#readme",
+  "homepage": "https://github.com/yourusername/airtime-nigeria-sdk#readme",
   "engines": {
     "node": ">=12.0.0"
   },
