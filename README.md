@@ -376,7 +376,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📖 [API Documentation](https://airtimenigeria.com)
 - 🐛 [Report Issues](https://github.com/jothamardel/airtime-nigeria-sdk/issues)
 - 💬 [Discussions](https://github.com/jothamardel/airtime-nigeria-sdk/discussions)
-- 📧 Email: support@yourdomain.com
+<!--- 📧 Email: support@yourdomain.com-->
 
 ## ⚖️ Legal & Disclaimer
 
