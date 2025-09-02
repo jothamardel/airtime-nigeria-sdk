@@ -26,7 +26,7 @@ npm install airtime-nigeria-sdk
 ## 📋 Requirements
 
 - Node.js 14.0.0 or higher
-- AirtimeNigeria.com API token ([Get one here](https://airtimenigeria.com/developers))
+- AirtimeNigeria.com API token ([Get one here](https://airtimenigeria.com))
 
 ## 🏁 Quick Start
 
@@ -373,9 +373,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support & Issues
 
-- 📖 [API Documentation](https://airtimenigeria.com/developers)
-- 🐛 [Report Issues](https://github.com/yourusername/airtime-nigeria-sdk/issues)
-- 💬 [Discussions](https://github.com/yourusername/airtime-nigeria-sdk/discussions)
+- 📖 [API Documentation](https://airtimenigeria.com)
+- 🐛 [Report Issues](https://github.com/jothamardel/airtime-nigeria-sdk/issues)
+- 💬 [Discussions](https://github.com/jothamardel/airtime-nigeria-sdk/discussions)
 - 📧 Email: support@yourdomain.com
 
 ## ⚖️ Legal & Disclaimer
