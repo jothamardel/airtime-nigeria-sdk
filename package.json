@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jothamardel/airtime-nigeria-sdk"
+    "url": "git+https://github.com/jothamardel/airtime-nigeria-sdk.git"
   },
   "bugs": {
     "url": "https://github.com/yourusername/airtime-nigeria-sdk/issues"
