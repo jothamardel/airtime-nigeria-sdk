@@ -1,6 +1,6 @@
 {
   "name": "airtime-nigeria-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unofficial JavaScript SDK for AirtimeNigeria.com API - Purchase airtime and data bundles for Nigerian networks",
   "main": "index.js",
   "types": "index.d.ts",
